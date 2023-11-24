@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-#include "shiftrows.h"
-#include "encode.h"
-#include "keygen.h"
-#include "types.h"
+#include "../include/shiftrows.h"
+#include "../include/encode.h"
+#include "../include/keygen.h"
+#include "../include/types.h"
 
 void print_block(Block* block)
 {

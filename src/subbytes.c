@@ -1,6 +1,6 @@
-#include "subbytes.h"
-#include "tables.h"
-#include "types.h"
+#include "../include/subbytes.h"
+#include "../include/tables.h"
+#include "../include/types.h"
 
 byte sub_byte(byte b)
 {

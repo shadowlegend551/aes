@@ -1,5 +1,5 @@
-#include "tables.h"
-#include "types.h"
+#include "../include/tables.h"
+#include "../include/types.h"
 
 byte galois_matrix[4][4] =
 {

@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <stdint.h>
 
-#include "keygen.h"
-#include "shiftrows.h"
-#include "tables.h"
-#include "types.h"
+#include "../include/keygen.h"
+#include "../include/shiftrows.h"
+#include "../include/tables.h"
+#include "../include/types.h"
 
 dword Rcon128[10] = 
     {0x01000000,0x02000000,0x04000000,0x08000000,0x10000000,

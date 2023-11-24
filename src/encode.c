@@ -2,12 +2,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "encode.h"
-#include "keygen.h"
-#include "shiftrows.h"
-#include "subbytes.h"
-#include "tables.h"
-#include "types.h"
+#include "../include/encode.h"
+#include "../include/keygen.h"
+#include "../include/shiftrows.h"
+#include "../include/subbytes.h"
+#include "../include/tables.h"
+#include "../include/types.h"
 
 
 // Returns a block initialized to zeroes.

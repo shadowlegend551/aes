@@ -1,5 +1,5 @@
-#include "shiftrows.h"
-#include "types.h"
+#include "../include/shiftrows.h"
+#include "../include/types.h"
 
 
 // Didn't use bit shifts to preserve endianness agnosticity.
